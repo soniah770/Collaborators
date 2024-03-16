@@ -1,0 +1,16 @@
+# Dependency directories
+node_modules/
+# Optional npm cache directory
+.npm
+# Optional eslint cache
+.eslintcache
+.idea/
+/.idea
+.idea
+
+# dotenv environment variable files
+.env
+.env.development.local
+.env.test.local
+.env.production.local
+.env.local
